@@ -1,5 +1,5 @@
 # MovieBrowser-APP 
-It is a movie browser website that's API driven. There's a search function,
+It is a movie browser website that's API driven. There's a dynamic search function,
 movie detail view, about page, all built into a single page application / progressive web application.
 The concept of function based components was used for the development of this web-app. 
 You can type in the search box the movie you are interested in, and it will update 
@@ -39,18 +39,22 @@ You may also see any lint errors in the console.
 
 **Examples of views from the website:**</br>
 
+---
 
 ***The home page.***</br>
 ![Screenshot](docs/img/01_main.png)</br>
 
+---
 
 ***The About page.***</br>
 ![Screenshot](docs/img/02_about.png)</br>
 
+---
 
 ***The dynamic search view.***</br>
 ![Screenshot](docs/img/03_search.png)</br>
 
+---
 
 ***Detail view of a movie.***</br>
 ![Screenshot](docs/img/04_detail_view.png)</br>
