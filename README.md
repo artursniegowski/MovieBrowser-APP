@@ -34,3 +34,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+---
+
+**Examples of views from the website:**</br>
+
+
+***The home page.***</br>
+![Screenshot](docs/img/01_main.png)</br>
+
+
+***The About page.***</br>
+![Screenshot](docs/img/02_about.png)</br>
+
+
+***The dynamic search view.***</br>
+![Screenshot](docs/img/03_search.png)</br>
+
+
+***Detail view of a movie.***</br>
+![Screenshot](docs/img/04_detail_view.png)</br>
